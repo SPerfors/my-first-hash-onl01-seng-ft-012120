@@ -2,6 +2,7 @@
 
 def my_hash
   bob = {"cat" => "KitKat", "dog1" => "Bella", "dog2" => "Annie"}
+  return bob
 end
 
 

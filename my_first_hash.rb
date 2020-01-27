@@ -1,7 +1,7 @@
-def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
+bob = {"cat" => "KitKat", "dog1" => "Bella", "dog2" => "Annie"}
 
-  
+def my_hash
+  return 
 end
 
 
